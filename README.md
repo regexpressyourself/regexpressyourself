@@ -14,7 +14,7 @@ I like making apps, tools, and toys for the web.
 
 ## My favorite side projects
 
-<a style="" target="_blank" href="https://toadstools.smessina.com" ><img alt="Sam Messina's Toadstools app" align="left" src="https://toadstools.smessina.com/static/media/toadstools.3b6f3416.png" width="200px" /></a><strong style="font-size: 1.5em"><a target="_blank" href="https://toadstools.smessina.com"> Toadstools</a ></strong >&nbsp;provides tools for streamers to add timers, song info, etc. to their streams using <strong>React</strong> and <strong>Deno</strong>.
+<a style="background-color: #cccccc;" target="_blank" href="https://toadstools.smessina.com" ><img alt="Sam Messina's Toadstools app" align="left" src="https://smessina.com/images/toadstools.jpg" width="200px" /></a><strong style="font-size: 1.5em"><a target="_blank" href="https://toadstools.smessina.com"> Toadstools</a ></strong >&nbsp;provides tools for streamers to add timers, song info, etc. to their streams using <strong>React</strong> and <strong>Deno</strong>.
 
 <br />
 
