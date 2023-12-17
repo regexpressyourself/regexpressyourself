@@ -17,18 +17,7 @@ projects
 
 <br />
 
-<a
-  style="background-color: #cccccc"
-  target="_blank"
-  href="https://ow.smessina.com"
->
-  <img
-    alt="Sam Messina's outwork app"
-    align="left"
-    src="https://smessina.com/images/logos/outwork-logo-background.png"
-    width="200px"
-  />
-</a>
+<a style="background-color: #cccccc" target="_blank" href="https://ow.smessina.com" > <img alt="Sam Messina's outwork app" align="left" src="https://smessina.com/images/logos/outwork-logo-background.png" width="200px" /> </a>
 <span>
   <strong style="font-size: 1.5em">
     <a target="_blank" href="https://ow.smessina.com"> outwork </a>
@@ -39,20 +28,14 @@ projects
 </span>
 
 <br />
+<br />
 
 ---
 
 <br />
+<br />
 
-<a style="background-color: #ffd6a0" target="_blank" href="https://hubert.wiki">
-  <img
-    alt="Sam Messina's HUB app"
-    align="left"
-    src="https://smessina.com/images/logos/hub-logo-background.png"
-    width="200px"
-  />
-</a>
-<span>
+<a style="background-color: #ffd6a0" target="_blank" href="https://hubert.wiki"> <img alt="Sam Messina's HUB app" align="left" src="https://smessina.com/images/logos/hub-logo-background.png" width="200px" /> </a> <span>
   <strong style="font-size: 1.5em">
     <a target="_blank" href="https://hubert.wiki"> HUB </a>
   </strong>
@@ -62,23 +45,14 @@ projects
 </span>
 
 <br />
+<br />
 
 ---
 
 <br />
+<br />
 
-<a
-  style="background-color: #cccccc"
-  target="_blank"
-  href="https://toadstools.smessina.com"
->
-  <img
-    alt="Sam Messina's Toadstools app"
-    align="left"
-    src="https://smessina.com/images/logos/toadstools-logo-background.png"
-    width="200px"
-  />
-</a>
+<a style="background-color: #cccccc" target="_blank" href="https://toadstools.smessina.com" > <img alt="Sam Messina's Toadstools app" align="left" src="https://smessina.com/images/logos/toadstools-logo-background.png" width="200px" /> </a>
 <span>
   <strong style="font-size: 1.5em">
     <a target="_blank" href="https://toadstools.smessina.com"> Toadstools </a>
@@ -88,18 +62,13 @@ projects
 </span>
 
 <br />
+<br />
 
 ---
 
 <br />
-<a style="" target="_blank" href="https://wailto.smessina.com">
-  <img
-    alt="Sam Messina's WAILto app"
-    align="left"
-    src="https://smessina.com/images/logos/wailto-logo-background.png"
-    width="200px"
-  />
-</a>
+<br />
+<a style="" target="_blank" href="https://wailto.smessina.com"> <img alt="Sam Messina's WAILto app" align="left" src="https://smessina.com/images/logos/wailto-logo-background.png" width="200px" /> </a>
 <span>
   <strong style="font-size: 1.5em">
     <a target="_blank" href="https://wailto.smessina.com"> WAILto </a>
