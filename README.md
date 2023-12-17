@@ -5,11 +5,14 @@
   />
 </a>
 
-# Hi! :wave: I'm Sam. I like making apps, tools, and toys for the web. ## Where
-to find me :house:&nbsp; My portfolio: [smessina.com](https://smessina.com)
-:pencil:&nbsp; My blog: [blog.smessina.com](https://blog.smessina.com)
-:briefcase:&nbsp; My LinkedIn:
-[sammessina](https://www.linkedin.com/in/sammessina/) ## My favorite side
+# Hi! :wave: I'm Sam. I like making apps, tools, and toys for the web. 
+
+
+## Where to find me 
+
+- :house:&nbsp; My portfolio: [smessina.com](https://smessina.com)
+- :pencil:&nbsp; My blog: [blog.smessina.com](https://blog.smessina.com)
+- :briefcase:&nbsp; My LinkedIn: [sammessina](https://www.linkedin.com/in/sammessina/) ## My favorite side
 projects
 
 <br />
